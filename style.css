@@ -86,7 +86,7 @@ h1 span {
 .color-orange {
   color: orange;
 }
-.anchor {
+.anchor-clr {
   text-decoration: none;
   background-image: linear-gradient(tomato, orange);
   padding: 10px 20px;
@@ -94,6 +94,11 @@ h1 span {
   font-weight: 700;
   color: white;
 }
+
 #center {
   text-align: center;
+}
+#last-center {
+  text-align: center;
+  background-color: black;
 }

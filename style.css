@@ -64,3 +64,16 @@ h1 span {
 .shadow-item img {
   width: 35%;
 }
+.develop-without-limits {
+  background-image: url(images/shapes/shape-0.1.png);
+  background-repeat: no-repeat;
+  background-position: left;
+}
+.read-the-Doc {
+  text-decoration: none;
+  background-image: linear-gradient(tomato, orange);
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-weight: 700;
+  color: white;
+}

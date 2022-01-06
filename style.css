@@ -1,0 +1,13 @@
+body {
+  font-family: "Lobster", cursive;
+  font-family: "Noto Serif", serif;
+  font-family: "Poppins", sans-serif;
+  font-family: "Tinos", serif;
+}
+h1 {
+  font-size: 50px;
+}
+h1 span {
+  color: orange;
+}
+

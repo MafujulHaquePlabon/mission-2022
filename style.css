@@ -83,3 +83,17 @@ h1 span {
   background-position: right bottom;
   background-size: 180px;
 }
+.color-orange {
+  color: orange;
+}
+.anchor {
+  text-decoration: none;
+  background-image: linear-gradient(tomato, orange);
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-weight: 700;
+  color: white;
+}
+#center {
+  text-align: center;
+}
